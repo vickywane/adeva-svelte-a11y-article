@@ -2,7 +2,7 @@
 
 This Svelte application was built to be used in my accessibility article published to the [Adeva Blog](https://adevait.com/blog) 
 
-**Note:** Switch to the `feat/ci` branch to view the Accessibility checks in the CI workflow.
+**Note:** Switch to the `feat/ci-pipeline` branch to view the Accessibility checks in the CI workflow.
 
 ## Local Installation
 
