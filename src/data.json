@@ -1,0 +1,64 @@
+{
+  "heroes": [
+    {
+      "id": "1",
+      "name": "Ada Lovelace",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/ada-removebg-preview.png",
+      "description":"Ada Lovelace was an English mathematician and the world’s first computer programmer. Lovelace was born into privilege as the daughter of a famously unstable romantic poet, Lord Byron (who left her family when Ada was just 2 months old) and Lady Wentworth."
+    },
+    {
+      "id": "2",
+      "name": "Jane Austen",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/jane-removebg-preview.png",
+      "description":"Jane Austen defined an entire literary genre with her shrewd social observations and wit. Born into a family of eight children in England, Austen started writing her now classic novels, such as Pride and Prejudice and Sense and Sensibility, in her teens."
+    },
+    {
+      "id": "3",
+      "name": "Maya Angelou",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/maya-removebg-preview.png",
+      "description":"Maya Angelou is one of the most influential women in American history and was a poet, singer, memoirist, and civil rights activist, whose award-winning memoir I Know Why the Caged Bird Sings made literary history as the first nonfiction best-seller by an African-American woman."
+    },
+    {
+      "id": "4",
+      "name": "Anne Frank",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/anne-removebg-preview.png",
+      "description":"The Franks were a Jewish family living in Germany, then Austria throughout Hitler’s rise to power and during World War II. The family hid in a secret annex with four other people throughout the war but were discovered and sent to concentration camps in 1944."
+    },
+    {
+      "id": "5",
+      "name": "Queen Elizabeth I",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620002365/wordpress/queen.jpg",
+      "description":"Elizabeth had a rocky road to the throne and technically should never have been allowed to reign, both because she was a woman and because her mother was Anne Boleyn, the much-hated ex-wife of Henry VIII"
+    },
+    {
+      "id": "6",
+      "name": "Catherine the Great",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/cath-removebg-preview.png",
+      "description":"Catherine the Great is one of the world’s great historical figures and the Prussian-born Queen is one of the more ruthless women to make this list. Catherine is credited for modernising Russia and established the first state-funded school for girls"
+    },
+    {
+      "id": "7",
+      "name": "Sojourner Truth",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/tru-removebg-preview.png",
+      "description":"Sojourner Truth is one of the most inspirational black women in America’s history and her words belong to one of the most famous speeches by any woman."
+    },
+    {
+      "id": "8",
+      "name": "Rosa Parks",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/rosa-removebg-preview.png",
+      "description":"Rosa Parks was on a bus in Montgomery, Alabama in 1955, when the bus driver asked her to stand up and give her seat to a white man. Parks, a black seamstress, refused and in doing so sparked an entire civil rights movement in America."
+    },
+    {
+      "id": "9",
+      "name": "Malala Yousafzai",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/mal-removebg-preview.png",
+      "description":"Malala Yousafzai was born in Pakistan on July 12, 1997. Yousafzai’s father was a teacher and ran an all-girls school in her village, however when the Taliban took over her town they enforced a ban on all girls going to school."
+    },
+    {
+      "id": "10",
+      "name": "Marie Curie",
+      "img_uri" : "https://res.cloudinary.com/dkfptto8m/image/upload/v1620003312/wordpress/marie.png",
+      "description":"Polish-born Marie Curie was a pioneering physicist and scientist, who coined the term radioactivity, discovered two new elements (radium and polonium) and developed a portable x-ray machine."
+    }
+  ]
+}
