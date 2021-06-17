@@ -1,4 +1,4 @@
-name: Contentlab-a11y-app Accessibility Test
+name: Adeva-a11y-app Accessibility Test
 on: [pull_request]
 jobs:
   build:
